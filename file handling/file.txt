@@ -1,0 +1,6 @@
+Hello, How are you?
+This is my first file.
+This is amazing..
+This is the last line of this file.
+This is the appended string
+This is the appended string
